@@ -1,0 +1,145 @@
+Week,Region,New Listings Sale YOY,New Listings Rent YOY
+02/03/2020,East Midlands,6%,-5%
+09/03/2020,East Midlands,-4%,3%
+16/03/2020,East Midlands,-20%,-1%
+23/03/2020,East Midlands,-65%,-48%
+30/03/2020,East Midlands,-85%,-67%
+06/04/2020,East Midlands,-92%,-68%
+13/04/2020,East Midlands,-93%,-57%
+20/04/2020,East Midlands,-89%,-44%
+27/04/2020,East Midlands,-86%,-52%
+04/05/2020,East Midlands,-85%,-49%
+11/05/2020,East Midlands,-74%,-23%
+18/05/2020,East Midlands,-42%,9%
+02/03/2020,East of England,2%,0%
+09/03/2020,East of England,6%,-6%
+16/03/2020,East of England,-18%,1%
+23/03/2020,East of England,-69%,-49%
+30/03/2020,East of England,-91%,-67%
+06/04/2020,East of England,-93%,-72%
+13/04/2020,East of England,-94%,-63%
+20/04/2020,East of England,-91%,-57%
+27/04/2020,East of England,-91%,-60%
+04/05/2020,East of England,-87%,-48%
+11/05/2020,East of England,-72%,-27%
+18/05/2020,East of England,-39%,-3%
+02/03/2020,London,8%,-14%
+09/03/2020,London,7%,-8%
+16/03/2020,London,-24%,5%
+23/03/2020,London,-71%,-41%
+30/03/2020,London,-88%,-53%
+06/04/2020,London,-90%,-54%
+13/04/2020,London,-92%,-37%
+20/04/2020,London,-84%,-23%
+27/04/2020,London,-85%,-39%
+04/05/2020,London,-87%,-25%
+11/05/2020,London,-73%,-12%
+18/05/2020,London,-38%,5%
+02/03/2020,North East,-8%,-16%
+09/03/2020,North East,0%,-4%
+16/03/2020,North East,-12%,-7%
+23/03/2020,North East,-68%,-56%
+30/03/2020,North East,-88%,-69%
+06/04/2020,North East,-93%,-72%
+13/04/2020,North East,-92%,-69%
+20/04/2020,North East,-88%,-55%
+27/04/2020,North East,-89%,-68%
+04/05/2020,North East,-86%,-63%
+11/05/2020,North East,-78%,-36%
+18/05/2020,North East,-55%,-34%
+02/03/2020,North West,1%,2%
+09/03/2020,North West,-7%,11%
+16/03/2020,North West,-13%,-1%
+23/03/2020,North West,-68%,-51%
+30/03/2020,North West,-83%,-61%
+06/04/2020,North West,-91%,-68%
+13/04/2020,North West,-93%,-60%
+20/04/2020,North West,-89%,-51%
+27/04/2020,North West,-88%,-53%
+04/05/2020,North West,-87%,-43%
+11/05/2020,North West,-73%,-33%
+18/05/2020,North West,-38%,-7%
+02/03/2020,Scotland,-14%,-3%
+09/03/2020,Scotland,-8%,-1%
+16/03/2020,Scotland,-16%,11%
+23/03/2020,Scotland,-64%,-25%
+30/03/2020,Scotland,-90%,-46%
+06/04/2020,Scotland,-97%,-58%
+13/04/2020,Scotland,-97%,-63%
+20/04/2020,Scotland,-96%,-47%
+27/04/2020,Scotland,-97%,-55%
+04/05/2020,Scotland,-96%,-50%
+11/05/2020,Scotland,-97%,-38%
+18/05/2020,Scotland,-93%,-43%
+02/03/2020,South East,6%,-8%
+09/03/2020,South East,4%,-6%
+16/03/2020,South East,-19%,7%
+23/03/2020,South East,-71%,-50%
+30/03/2020,South East,-87%,-64%
+06/04/2020,South East,-91%,-69%
+13/04/2020,South East,-92%,-57%
+20/04/2020,South East,-89%,-43%
+27/04/2020,South East,-90%,-51%
+04/05/2020,South East,-87%,-45%
+11/05/2020,South East,-74%,-25%
+18/05/2020,South East,-41%,-1%
+02/03/2020,South West,8%,-4%
+09/03/2020,South West,5%,-6%
+16/03/2020,South West,-14%,4%
+23/03/2020,South West,-69%,-54%
+30/03/2020,South West,-88%,-66%
+06/04/2020,South West,-92%,-71%
+13/04/2020,South West,-93%,-66%
+20/04/2020,South West,-88%,-50%
+27/04/2020,South West,-91%,-61%
+04/05/2020,South West,-86%,-50%
+11/05/2020,South West,-73%,-23%
+18/05/2020,South West,-35%,0%
+02/03/2020,Great Britain,4%,-8%
+09/03/2020,Great Britain,1%,-5%
+16/03/2020,Great Britain,-18%,2%
+23/03/2020,Great Britain,-68%,-47%
+30/03/2020,Great Britain,-87%,-60%
+06/04/2020,Great Britain,-92%,-64%
+13/04/2020,Great Britain,-93%,-54%
+20/04/2020,Great Britain,-89%,-41%
+27/04/2020,Great Britain,-89%,-51%
+04/05/2020,Great Britain,-87%,-41%
+11/05/2020,Great Britain,-75%,-23%
+18/05/2020,Great Britain,-44%,-4%
+02/03/2020,Wales,28%,-14%
+09/03/2020,Wales,9%,-2%
+16/03/2020,Wales,-19%,-11%
+23/03/2020,Wales,-68%,-51%
+30/03/2020,Wales,-87%,-65%
+06/04/2020,Wales,-88%,-71%
+13/04/2020,Wales,-87%,-59%
+20/04/2020,Wales,-84%,-49%
+27/04/2020,Wales,-85%,-54%
+04/05/2020,Wales,-85%,-44%
+11/05/2020,Wales,-83%,-41%
+18/05/2020,Wales,-78%,-37%
+02/03/2020,West Midlands,2%,-8%
+09/03/2020,West Midlands,-8%,-15%
+16/03/2020,West Midlands,-21%,-5%
+23/03/2020,West Midlands,-63%,-46%
+30/03/2020,West Midlands,-88%,-62%
+06/04/2020,West Midlands,-93%,-72%
+13/04/2020,West Midlands,-93%,-62%
+20/04/2020,West Midlands,-89%,-48%
+27/04/2020,West Midlands,-91%,-59%
+04/05/2020,West Midlands,-86%,-49%
+11/05/2020,West Midlands,-75%,-25%
+18/05/2020,West Midlands,-39%,-2%
+02/03/2020,Yorkshire and The Humber,2%,-8%
+09/03/2020,Yorkshire and The Humber,-3%,-6%
+16/03/2020,Yorkshire and The Humber,-20%,-7%
+23/03/2020,Yorkshire and The Humber,-67%,-52%
+30/03/2020,Yorkshire and The Humber,-86%,-62%
+06/04/2020,Yorkshire and The Humber,-92%,-66%
+13/04/2020,Yorkshire and The Humber,-92%,-58%
+20/04/2020,Yorkshire and The Humber,-88%,-48%
+27/04/2020,Yorkshire and The Humber,-88%,-59%
+04/05/2020,Yorkshire and The Humber,-85%,-54%
+11/05/2020,Yorkshire and The Humber,-73%,-25%
+18/05/2020,Yorkshire and The Humber,-44%,-13%

@@ -1,0 +1,145 @@
+Week,Region,Sale Demand YOY,Rent Demand YOY
+18/05/2020,South West,7%,34%
+18/05/2020,East Midlands,4%,33%
+18/05/2020,West Midlands,-5%,31%
+18/05/2020,South East,8%,28%
+18/05/2020,Yorkshire and The Humber,6%,26%
+18/05/2020,East of England,6%,25%
+04/05/2020,London,3%,23%
+18/05/2020,Great Britain,4%,22%
+18/05/2020,North West,11%,21%
+11/05/2020,East Midlands,-8%,20%
+04/05/2020,West Midlands,-17%,20%
+11/05/2020,West Midlands,-16%,19%
+04/05/2020,East Midlands,-9%,18%
+11/05/2020,Yorkshire and The Humber,-5%,18%
+18/05/2020,London,7%,17%
+04/05/2020,North East,5%,17%
+04/05/2020,South East,-7%,17%
+04/05/2020,Great Britain,-7%,16%
+04/05/2020,North West,0%,15%
+11/05/2020,North West,-1%,15%
+11/05/2020,South East,-4%,15%
+11/05/2020,Great Britain,-7%,13%
+18/05/2020,North East,8%,13%
+11/05/2020,South West,-5%,13%
+11/05/2020,London,-2%,12%
+04/05/2020,Yorkshire and The Humber,-10%,12%
+27/04/2020,East Midlands,-11%,11%
+11/05/2020,East of England,-7%,11%
+11/05/2020,North East,0%,11%
+27/04/2020,London,1%,10%
+27/04/2020,West Midlands,-18%,10%
+27/04/2020,North East,3%,9%
+04/05/2020,South West,-8%,9%
+04/05/2020,Wales,4%,9%
+27/04/2020,South East,-13%,8%
+04/05/2020,East of England,-10%,7%
+20/04/2020,London,-11%,7%
+27/04/2020,North West,-2%,7%
+20/04/2020,East Midlands,-13%,6%
+27/04/2020,Great Britain,-10%,6%
+18/05/2020,Wales,-5%,6%
+02/03/2020,West Midlands,-2%,6%
+13/04/2020,West Midlands,-27%,5%
+20/04/2020,West Midlands,-12%,5%
+27/04/2020,Yorkshire and The Humber,-12%,5%
+13/04/2020,East Midlands,-22%,4%
+02/03/2020,London,11%,3%
+13/04/2020,London,-11%,3%
+20/04/2020,North East,-11%,3%
+11/05/2020,Wales,-6%,3%
+02/03/2020,East Midlands,6%,1%
+13/04/2020,North West,-16%,1%
+27/04/2020,Wales,1%,1%
+27/04/2020,East of England,-13%,0%
+20/04/2020,Great Britain,-16%,0%
+13/04/2020,South East,-11%,0%
+20/04/2020,South East,-19%,0%
+27/04/2020,South West,-12%,0%
+02/03/2020,Great Britain,6%,-1%
+13/04/2020,Great Britain,-18%,-1%
+13/04/2020,North East,-14%,-1%
+20/04/2020,North West,-3%,-1%
+09/03/2020,West Midlands,-10%,-1%
+02/03/2020,East of England,9%,-2%
+02/03/2020,South East,10%,-2%
+02/03/2020,Wales,2%,-2%
+20/04/2020,Yorkshire and The Humber,-12%,-2%
+02/03/2020,North West,7%,-4%
+02/03/2020,South West,4%,-4%
+02/03/2020,Yorkshire and The Humber,4%,-4%
+13/04/2020,Yorkshire and The Humber,-19%,-4%
+09/03/2020,East Midlands,-1%,-5%
+04/05/2020,Scotland,-23%,-5%
+13/04/2020,South West,-18%,-5%
+13/04/2020,East of England,-24%,-7%
+09/03/2020,London,2%,-7%
+09/03/2020,South East,1%,-7%
+09/03/2020,East of England,1%,-8%
+20/04/2020,East of England,-24%,-8%
+09/03/2020,Great Britain,-2%,-8%
+02/03/2020,North East,9%,-8%
+09/03/2020,North West,-1%,-8%
+20/04/2020,South West,-23%,-8%
+20/04/2020,Wales,-5%,-8%
+23/03/2020,London,-18%,-10%
+09/03/2020,South West,-4%,-10%
+16/03/2020,West Midlands,-33%,-10%
+09/03/2020,Yorkshire and The Humber,-4%,-10%
+27/04/2020,Scotland,-24%,-11%
+18/05/2020,Scotland,-30%,-11%
+09/03/2020,Wales,-3%,-11%
+13/04/2020,Wales,-12%,-11%
+11/05/2020,Scotland,-29%,-12%
+16/03/2020,East Midlands,-25%,-13%
+16/03/2020,London,-20%,-13%
+09/03/2020,North East,0%,-13%
+02/03/2020,Scotland,-11%,-13%
+06/04/2020,London,-24%,-14%
+16/03/2020,South East,-24%,-14%
+06/04/2020,West Midlands,-39%,-14%
+06/04/2020,East Midlands,-34%,-15%
+06/04/2020,North East,-28%,-15%
+20/04/2020,Scotland,-34%,-15%
+16/03/2020,Great Britain,-26%,-16%
+16/03/2020,North East,-22%,-16%
+23/03/2020,West Midlands,-39%,-16%
+13/04/2020,Scotland,-31%,-17%
+30/03/2020,West Midlands,-40%,-17%
+06/04/2020,Great Britain,-31%,-18%
+06/04/2020,North West,-28%,-18%
+06/04/2020,South East,-29%,-18%
+16/03/2020,East of England,-26%,-19%
+23/03/2020,Great Britain,-31%,-19%
+23/03/2020,South East,-30%,-19%
+16/03/2020,South West,-29%,-19%
+23/03/2020,East Midlands,-32%,-20%
+23/03/2020,North East,-28%,-20%
+30/03/2020,North East,-29%,-20%
+16/03/2020,North West,-25%,-20%
+30/03/2020,East Midlands,-34%,-21%
+30/03/2020,London,-26%,-21%
+09/03/2020,Scotland,-18%,-21%
+16/03/2020,Yorkshire and The Humber,-29%,-21%
+06/04/2020,Yorkshire and The Humber,-32%,-21%
+16/03/2020,Wales,-23%,-22%
+06/04/2020,East of England,-36%,-23%
+30/03/2020,North West,-28%,-23%
+30/03/2020,South East,-32%,-23%
+30/03/2020,Great Britain,-33%,-24%
+23/03/2020,North West,-29%,-24%
+06/04/2020,South West,-33%,-24%
+23/03/2020,East of England,-32%,-25%
+23/03/2020,South West,-33%,-26%
+06/04/2020,Wales,-28%,-26%
+23/03/2020,Yorkshire and The Humber,-36%,-26%
+30/03/2020,Wales,-27%,-27%
+30/03/2020,Yorkshire and The Humber,-35%,-27%
+30/03/2020,East of England,-35%,-28%
+23/03/2020,Wales,-26%,-28%
+30/03/2020,South West,-35%,-29%
+06/04/2020,Scotland,-39%,-30%
+30/03/2020,Scotland,-41%,-33%
+16/03/2020,Scotland,-37%,-34%
+23/03/2020,Scotland,-40%,-38%
